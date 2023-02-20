@@ -1,0 +1,17 @@
+.About .text h2 {
+  border-bottom: 2px solid orangered;
+  width: 200px;
+  margin: 0px auto;
+}
+.About .btn {
+  border: 1px solid orangered;
+  color: orangered;
+}
+.About .btn:hover {
+  background-color: orangered;
+  color: white;
+}
+.About {
+  width: 100%;
+  min-height: 50vh;
+}

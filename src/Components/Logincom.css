@@ -1,0 +1,28 @@
+.Login Button {
+  border: 2px solid orangered;
+  background-color: none;
+  color: orangered;
+  outline: none;
+}
+.Login .commentbtn:hover {
+  background-color: orangered;
+  color: white;
+}
+.Login .form {
+  border: 1px solid #ccc;
+}
+.Login .form .input {
+  outline: none;
+  border: none;
+  background-color: #f0f0f0;
+  box-shadow: none;
+  margin: 10px 0px;
+}
+.Login .text h2 {
+  border-bottom: 1px solid orangered;
+  max-width: 500px;
+  margin: 0px auto;
+}
+.link-below .Link {
+  color: orangered;
+}

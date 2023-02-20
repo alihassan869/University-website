@@ -1,0 +1,29 @@
+.Sign .icon {
+  color: orangered;
+  font-size: 35px;
+}
+.Sign Button {
+  border: 2px solid orangered;
+  background-color: none;
+  color: orangered;
+  outline: none;
+}
+.Sign .commentbtn:hover {
+  background-color: orangered;
+  color: white;
+}
+.Sign .form {
+  border: 1px solid #ccc;
+}
+.Sign .form .input {
+  outline: none;
+  border: none;
+  background-color: #f0f0f0;
+  box-shadow: none;
+  margin: 10px 0px;
+}
+.Sign .text h2 {
+  border-bottom: 1px solid orangered;
+  max-width: 500px;
+  margin: 0px auto;
+}

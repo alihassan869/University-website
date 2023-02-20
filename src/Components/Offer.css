@@ -1,0 +1,18 @@
+.offer {
+  width: 100%;
+  min-height: 50%;
+  overflow: hidden;
+}
+.offer-card {
+  background-color: #fff3f3;
+  border-radius: 10px;
+  padding: 20px 12px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.offer-card:hover {
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+.offer .text h2 {
+  font-size: 45px;
+}

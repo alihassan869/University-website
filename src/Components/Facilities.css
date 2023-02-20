@@ -1,0 +1,7 @@
+.fcards {
+  border: none;
+  max-width: 22rem;
+}
+.fcards .imgf {
+  border-radius: 10px;
+}

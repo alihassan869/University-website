@@ -1,0 +1,30 @@
+.Blog h2 {
+  border-bottom: 2px solid orangered;
+  max-width: 800px;
+  margin: 0px auto;
+}
+.blod {
+  background-color: orangered;
+}
+.Blog Button {
+  border: 2px solid orangered;
+  background-color: none;
+  color: orangered;
+  outline: none;
+}
+.Blog .commentbtn:hover {
+  background-color: orangered;
+  color: white;
+}
+.Blog .form {
+  border: 1px solid #ccc;
+}
+.Blog .form .input {
+  outline: none;
+  border: none;
+  background-color: #f0f0f0;
+  box-shadow: none;
+}
+.Blog .container p {
+  color: gray;
+}
